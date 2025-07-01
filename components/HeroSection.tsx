@@ -282,7 +282,7 @@ const HeroSection = () => {
         {/* Three.js Container */}
         <div className="three-container" ref={threeContainerRef}></div>
 
-        {/* Floating Elements */}BIOBA
+        {/* Floating Elements */}
         <div className="floating-elements">
           <div className="floating-element"></div>
           <div className="floating-element"></div>
